@@ -1,1 +1,8 @@
-[{"title":"book"},{"title":"pen"},{"title":"notebook"},{"title":"hello1"},{"title":"lpp"},{"title":"lppp"},{"title":"cscs"},{"title":"JavaScript"}]
+[
+  {
+    "title": "New Book",
+    "imageUrl": "https://media.istockphoto.com/id/2060984408/photo/stack-of-colorful-books-education-background-back-to-school-book-hardback-colorful-books-on.jpg?s=2048x2048&w=is&k=20&c=fMIu6GS3-sZtPEOMbFVhzFEgu3voYWaLJkuWXaFRsxY=",
+    "description": "The best book to read",
+    "price": "20"
+  }
+]
