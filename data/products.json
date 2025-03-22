@@ -1,1 +1,9 @@
-[{"title":"New Book","imageUrl":"https://media.istockphoto.com/id/2060984408/photo/stack-of-colorful-books-education-background-back-to-school-book-hardback-colorful-books-on.jpg?s=2048x2048&w=is&k=20&c=fMIu6GS3-sZtPEOMbFVhzFEgu3voYWaLJkuWXaFRsxY=","description":"Awesome new book to read","price":"19.99","id":"0.271579207798716"}]
+[
+  {
+    "title": "New Book",
+    "imageUrl": "https://media.istockphoto.com/id/2060984408/photo/stack-of-colorful-books-education-background-back-to-school-book-hardback-colorful-books-on.jpg?s=2048x2048&w=is&k=20&c=fMIu6GS3-sZtPEOMbFVhzFEgu3voYWaLJkuWXaFRsxY=",
+    "description": "Awesome new book to read",
+    "price": "19.99",
+    "id": "1"
+  }
+]
